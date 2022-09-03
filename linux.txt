@@ -1,3 +1,5 @@
 # linux
 
+- boot to chromium in kiosk to an ip address (raspberry pi)
+
 
